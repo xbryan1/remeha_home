@@ -8,9 +8,6 @@ Testing: This fork has been developed and tested specifically on a Baxi PLATINUM
 
 ## Installation
 
-### Install with HACS (recommended)
-[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=msvisser&repository=remeha_home&category=integration)
-
 1. Add this repository URL (https://github.com/xbryan1/remeha_home) as a custom repository in HACS (Integration type).
 1. Search for "Remeha Home Baxi HVAC" (or similar) under Integrations and install it.
 1. Restart Home Assistant.
